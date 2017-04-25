@@ -1,0 +1,5 @@
+*.py[cod
+*.so
+*.egg
+.DS_Store
+input
